@@ -1,0 +1,9 @@
+
+".container" : {
+  title : 'Sample'
+}
+
+".wrap" : {
+	layout: 'vertical',
+	height : Ti.UI.SIZE
+}

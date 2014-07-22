@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<View class="wrap">
+			<Label>This is a sampel Controller</Label>
+			<Button>Click me!</Button>
+		</View>
+	</Window>
+</Alloy>
